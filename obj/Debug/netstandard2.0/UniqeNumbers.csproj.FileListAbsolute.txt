@@ -1,0 +1,9 @@
+/home/eggii/Desktop/UniqeNumbers/bin/Debug/netstandard2.0/UniqeNumbers.deps.json
+/home/eggii/Desktop/UniqeNumbers/bin/Debug/netstandard2.0/UniqeNumbers.dll
+/home/eggii/Desktop/UniqeNumbers/bin/Debug/netstandard2.0/UniqeNumbers.pdb
+/home/eggii/Desktop/UniqeNumbers/obj/Debug/netstandard2.0/UniqeNumbers.csprojAssemblyReference.cache
+/home/eggii/Desktop/UniqeNumbers/obj/Debug/netstandard2.0/UniqeNumbers.csproj.CoreCompileInputs.cache
+/home/eggii/Desktop/UniqeNumbers/obj/Debug/netstandard2.0/UniqeNumbers.AssemblyInfoInputs.cache
+/home/eggii/Desktop/UniqeNumbers/obj/Debug/netstandard2.0/UniqeNumbers.AssemblyInfo.cs
+/home/eggii/Desktop/UniqeNumbers/obj/Debug/netstandard2.0/UniqeNumbers.dll
+/home/eggii/Desktop/UniqeNumbers/obj/Debug/netstandard2.0/UniqeNumbers.pdb
